@@ -1,12 +1,9 @@
 # Outline
 
-## Who Am I Even
+## Who is this Guy?
 Corbin Haughawout. **Full-Stack Engineer** on **GAPCIE** at **Northrop Grumman**.
 
-Been officially *in* industry since January. Been developing applications since *2013*.
-
-Spreading the gospel of **Functional Programming** and sharing my disappointment of **JavaScript frameworks**.
-
+Spreading the gospel of Elm!
 
 ## Let's Talk JavaScript & JavaScript Frameworks
 #### Pros:
@@ -21,26 +18,7 @@ Spreading the gospel of **Functional Programming** and sharing my disappointment
 - No Module System
 - Spaghetti **EVERYWHERE**
 
-### Frameworks
-#### Angular 1.X
-Model View Controller, Two Way Data-binding (watchers), Expressions in HTML Markup, JavaScript, (soon to be deprecated)
-
-#### Angular 2
-Component Based, Opt-in Two Way Data-binding, Expressions in HTML Markeup, JavaScript, Backed by Google (but not really...)
-
-#### ReactJS
-Not a Structural Framework, Update App Model, Fast, Gaining Popularity
-
-#### Aurelian
-Uses Web-Components, Opt-in Two-Way Data-binding, JavaScript, Dog-fooded by their dev team
-
-#### Ember
-Uses Web-Components, Difficult to Optimize, Dog-fooded by their dev team
-
-#### And more...
-
-
-## Let's Talk Functional Programming & Elm
+## Let's Talk Functional Programming & **Elm**
 
 Elm is a functional language for Application Development.
 Compiles to JavaScript.
