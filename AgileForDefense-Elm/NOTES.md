@@ -5,20 +5,7 @@ Corbin Haughawout. **Full-Stack Engineer** on **GAPCIE** at **Northrop Grumman**
 
 Spreading the gospel of Elm!
 
-## Let's Talk JavaScript & JavaScript Frameworks
-#### Pros:
-- Doesn't get in your way
-- Multi-paradigm
-- Easily Share applications over the internet & web pages
-- Everyone uses it
-
-#### Cons:
-- No compilation step
-- Runtime Exceptions abound!
-- No Module System
-- Spaghetti **EVERYWHERE**
-
-## Let's Talk Functional Programming & **Elm**
+## Let's Talk Elm
 
 Elm is a functional language for Application Development.
 Compiles to JavaScript.
