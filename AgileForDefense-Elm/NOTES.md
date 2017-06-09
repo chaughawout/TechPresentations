@@ -1,9 +1,7 @@
 # Outline
 
 ## Who is this Guy?
-Corbin Haughawout. **Full-Stack Engineer** on **GAPCIE** at **Northrop Grumman**.
-
-Spreading the gospel of Elm!
+Corbin Haughawout. I make cool stuff work at Orion Advisor Services on the Integrations team.
 
 ## Let's Talk Elm
 
@@ -14,7 +12,7 @@ Faster than any front-end framework on the market (according to official benchma
 Active and friendly community!
 
 ### Positive Technical Details of Elm
-Time tracking debugging - Simplifying Q&A
+Time tracking debugging - Simplifying testing User Interfaces.
 Data is always immutable.
 Elm-Architecture is familiar to Ruby on Rails MVC.
 Compiler Messages are **USEFUL**
@@ -24,11 +22,10 @@ Can be introduced slowly into existing baseline!
 ### Cons of Using Elm
 Learning Curve.
 Not backed by large companies.
-Possibly development time?
+Possibly development time in the start of a project.
 Young framework leads to often having to build out the components yourself.
 
 ## Questions before Code?
-
 Now's a good time to ask any questions you may have before we dig into the official examples!
 
 **Let's See the Code!**
